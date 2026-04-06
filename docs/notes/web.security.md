@@ -11,7 +11,7 @@
 - 启动虚拟化：
     - 如何检测：打开任务管理器，找到"**性能**" -> "**cpu面板**"，然后检查虚拟化是否打开。
 
-    ![cpuinterface](/ahxi3/public/image/cpu-interface.png "cpu-interface")
+    ![cpuinterface]( "cpu-interface")
 
     - 若没打开，参考[这篇文章](https://blog.csdn.net/2501_90561511/article/details/145647764)
 - 改动两个设置：
@@ -23,7 +23,7 @@
 
 - 右键屏幕左下角的windows logo，然后点击“终端管理员”。
 
-![terminal](/ahxi3/public/image/terminal-ad.png "terminal-ad")
+![terminal]( "terminal-ad")
 
 - 输入以下命令并按enter键：
 
@@ -43,7 +43,7 @@
 
 - 下载完成后重启电脑，如果你可以在这个地方找到像我一样的**kali-linux**，那么恭喜你，成功安装了WSL！
 
-![kali-linux](/ahxi3/public/image/firsttime.png "first-time")
+![kali-linux]( "first-time")
 
 ## 2.各种命令的用法
 
@@ -53,12 +53,12 @@ Well done, bro，接下来使用Bash做一些有趣的事情吧
 
 - 如果你成功完成了操作，应该可以看到类似画面👇
 
-![linux](/ahxi3/public/image/open-linux.png "open-linux")
+![linux]( "open-linux")
 
 - 键入 `data`
 - wow，居然显示出了今天的日期与时间，cool
 
-![date](/ahxi3/public/image/date.png "date")
+![date]( "date")
 
 ### 恭喜你完成了你的第一步操作！
 
@@ -130,7 +130,7 @@ Well done, bro，接下来使用Bash做一些有趣的事情吧
 - 但这些看不懂的东西其实是关于`ls`这个命令的所有用法
 - 如`ls -l`，这个指令会展示出当前目录下所有文件的附加信息👇
 
-![ls-l-home](/ahxi3/public/image/ls-l.png "ls-l-home")
+![ls-l-home]( "ls-l-home")
 
 里面有很多看不懂的列，没关系，我们一个个来解读
 - 第一列，是用来定义文件类型以及不同用户的访问权限的
