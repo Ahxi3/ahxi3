@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as s}from"./chunks/framework.BDO_Gsxu.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"notes/test1.md","filePath":"notes/test1.md"}'),a={name:"notes/test1.md"};function o(n,r,c,p,_,d){return e(),s("div")}const f=t(a,[["render",o]]);export{m as __pageData,f as default};
