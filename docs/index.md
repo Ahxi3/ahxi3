@@ -20,12 +20,12 @@ hero:
 features:
   - title: 学习笔记
     details: 记录网络安全与AI学习的点滴思考
-    link: /ahxi3/notes/
+    link: /notes/
   - title: 项目实战
     details: 从0到1的智能安全项目实践
-    link: /ahxi3/projects/
+    link: /projects/
   - title: 工具箱
     details: 分享学习路上好用的工具和资源
-    link: /ahxi3/toolbox/
+    link: /toolbox/
 ---
 
